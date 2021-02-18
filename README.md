@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj56&label=Profile%20views&color=0e75b6&style=flat" alt="niraj56" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niraj56" alt="niraj56" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tniraj56" target="blank"><img src="https://img.shields.io/twitter/follow/tniraj56?logo=twitter&style=for-the-badge" alt="tniraj56" /></a> </p>
 
 - 🔭 I’m currently working on **Face Mask Detection**
