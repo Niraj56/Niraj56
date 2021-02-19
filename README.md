@@ -14,7 +14,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/niraj56?tab=repositories&q=&type=&language=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![PHP](https://img.shields.io/badge/-PHP-23777BB4&logoColor=4479A1)
+![PHP](https://img.shields.io/badge/-PHP-23777BB4&logo=PHP&logoColor=4479A1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
