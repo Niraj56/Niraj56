@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/niraj56/niraj56/master/profile.gif)]
 <h1 align="center">Hi 👋, I'm Niraj Tiwari</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
