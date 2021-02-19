@@ -1,6 +1,15 @@
-[![Header](https://raw.githubusercontent.com/niraj56/niraj56/master/profile.gif)]
+![Header](https://raw.githubusercontent.com/niraj56/niraj56/master/profile.gif)
 <h1 align="center">Hi 👋, I'm Niraj Tiwari</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
+
+### Languages
+
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/niraj56?tab=repositories&q=&type=&language=python)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/niraj56?tab=repositories&q=&type=&language=java)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/niraj56?tab=repositories&q=&type=&language=c)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/niraj56?tab=repositories&q=&type=&language=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj56&label=Profile%20views&color=0e75b6&style=flat" alt="niraj56" /> </p>
 
