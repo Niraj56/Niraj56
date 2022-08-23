@@ -1,6 +1,6 @@
-![Header](https://raw.githubusercontent.com/niraj56/niraj56/master/profile.gif)
+
 <h1 align="center">Hi 👋, I'm Niraj Tiwari</h1>
-<h3 align="center">A passionate developer from Nepal.</h3>
+<h3 align="center">US based Web Developer & Python Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj56&label=Profile%20views&color=0e75b6&style=flat" alt="niraj56" /> </p>
 
