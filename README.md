@@ -1,27 +1,65 @@
-![Header](https://i.imgur.com/qZ1yXuu.jpg)
-<h1 align="center">Hi 👋, I'm Niraj Tiwari</h1>
-<h3 align="center">US based Web Developer & Python Engineer</h3>
+<!-- Banner -->
+<img src="https://i.imgur.com/qZ1yXuu.jpg" width="100%" alt="Header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj56&label=Profile%20views&color=0e75b6&style=flat" alt="niraj56" /> </p>
+<!-- Headline -->
+<h1 align="center">Niraj Tiwari</h1>
+<h3 align="center">Design-Driven Developer. Python Tamer. UX Rebel.</h3>
 
-<p align="left"> <a href="https://twitter.com/tniraj56" target="blank"><img src="https://img.shields.io/twitter/follow/tniraj56?logo=twitter&style=for-the-badge" alt="tniraj56" /></a> </p>
-
-### Languages
-
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/niraj56?tab=repositories&q=&type=&language=python)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/niraj56?tab=repositories&q=&type=&language=java)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/niraj56?tab=repositories&q=&type=&language=c)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/niraj56?tab=repositories&q=&type=&language=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![PHP](https://img.shields.io/badge/-PHP-23777BB4&logo=PHP&logoColor=4479A1)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tniraj56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tniraj56" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tniraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tniraj" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/tniraj56" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/tniraj56?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
+  </a>
+  <a href="https://linkedin.com/in/tniraj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=niraj56&label=Profile%20Views&color=lightgray&style=flat" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niraj56&show_icons=true&locale=en&layout=compact" alt="niraj56" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niraj56&show_icons=true&locale=en" alt="niraj56" /></p>
+> 🧠 *“Built different” isn’t a slogan. It’s a spec.*
+
+- 🔥 I design what I code. I code what I dream.
+- 🧩 From UX flows to backend logic — I shape digital products end-to-end.
+- 🛠️ Tools: Python, Figma, JavaScript, APIs, SQL, and audacity.
+- 🌐 Currently building [Skinociti](https://skinociti.com): premium 3D textured skins.
+- 💣 Past lives: branding, government UX, and some illegal levels of caffeine.
+
+---
+
+### 🧰 My Playground
+
+![Python](https://img.shields.io/badge/-Python-111?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-111?style=flat&logo=c%2b%2b)
+![Figma](https://img.shields.io/badge/-Figma-111?style=flat&logo=figma)
+![Shopify](https://img.shields.io/badge/-Shopify-111?style=flat&logo=shopify)
+![HTML5](https://img.shields.io/badge/-HTML5-111?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-111?style=flat&logo=css3)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat&logo=postgresql)
+![Linux](https://img.shields.io/badge/-Linux-111?style=flat&logo=linux)
+
+---
+
+### 📈 Proof of Work
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niraj56&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj56&layout=compact&theme=radical" width="49%"/>
+</p>
+
+---
+
+### 🚀 Current Mission
+
+```python
+class Niraj:
+    def __init__(self):
+        self.focus = ['Design', 'Code', 'Disruption']
+        self.stack = ['Python', 'UX/UI', 'Creative Direction']
+        self.status = "On a mission to hack the matrix."
+
+    def connect(self):
+        return "linkedin.com/in/tniraj"
+
+me = Niraj()
