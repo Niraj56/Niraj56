@@ -1,13 +1,16 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/qZ1yXuu.jpg" width="100%" alt="Header"/>
+<!-- Animated code typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Niraj+Tiwari.;UX%2FUI+Designer+%2B+Python+Engineer.;Designing+code.+Coding+design.;Let's+break+the+template." alt="Typing SVG" />
+</p>
 
-<!-- Headline -->
+---
+
 <h1 align="center">Niraj Tiwari</h1>
-<h3 align="center">Design-Driven Developer. Python Tamer. UX Rebel.</h3>
+<h3 align="center">Design-Powered Developer • UX Architect • Matrix Glitch</h3>
 
 <p align="center">
   <a href="https://twitter.com/tniraj56" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/tniraj56?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
+    <img src="https://img.shields.io/twitter/follow/tniraj56?logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/tniraj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -17,49 +20,43 @@
 
 ---
 
-> 🧠 *“Built different” isn’t a slogan. It’s a spec.*
+### 💡 What I Do
 
-- 🔥 I design what I code. I code what I dream.
-- 🧩 From UX flows to backend logic — I shape digital products end-to-end.
-- 🛠️ Tools: Python, Figma, JavaScript, APIs, SQL, and audacity.
-- 🌐 Currently building [Skinociti](https://skinociti.com): premium 3D textured skins.
-- 💣 Past lives: branding, government UX, and some illegal levels of caffeine.
+- 🔧 Design systems that don’t break. Code that doesn’t beg for comments.
+- 🔥 Building [Skinociti](https://skinociti.com): 3D textured skins for rebels.
+- 🤖 Shopify Dev • Python Automation • UX/CX Strategy
+- 🎯 Goal: Make software feel like art. Make art feel like power.
 
 ---
 
-### 🧰 My Playground
+### 🧰 Stack Arsenal
 
 ![Python](https://img.shields.io/badge/-Python-111?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-111?style=flat&logo=c%2b%2b)
 ![Figma](https://img.shields.io/badge/-Figma-111?style=flat&logo=figma)
 ![Shopify](https://img.shields.io/badge/-Shopify-111?style=flat&logo=shopify)
-![HTML5](https://img.shields.io/badge/-HTML5-111?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-111?style=flat&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat&logo=postgresql)
+![VS Code](https://img.shields.io/badge/-VS%20Code-111?style=flat&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/-Linux-111?style=flat&logo=linux)
 
 ---
 
-### 📈 Proof of Work
+### 📈 Stats That Don’t Sleep
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niraj56&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj56&layout=compact&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=niraj56&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj56&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
 ---
 
-### 🚀 Current Mission
+### 🧬 Behind the Code
 
-```python
-class Niraj:
-    def __init__(self):
-        self.focus = ['Design', 'Code', 'Disruption']
-        self.stack = ['Python', 'UX/UI', 'Creative Direction']
-        self.status = "On a mission to hack the matrix."
-
-    def connect(self):
-        return "linkedin.com/in/tniraj"
-
-me = Niraj()
+```js
+const niraj = {
+  title: "Creative Technologist",
+  specialty: ["Python", "UX Design", "Brand Strategy"],
+  obsession: "Blending code with story",
+  location: "USA 🇺🇸",
+  motto: "Don't fit in. Redesign the grid.",
+};
